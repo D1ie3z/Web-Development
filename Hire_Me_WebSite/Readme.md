@@ -10,4 +10,4 @@ Y las personas pueden contactarte por tus servicios. Creo que puede ser muy utí
 Puedo actualizarlo para alguien, pero por ahora solo es un ejemplo.
 link: https://hiremesite.netlify.app/
 
-<img src="https://github.com/UnityFramx/Web-Development/blob/main/Hire_Me_WebSite/Hiremesite.gif" width="500"/>
+<a><img src="https://github.com/UnityFramx/Web-Development/blob/main/Hire_Me_WebSite/Hiremesite.gif" width="500"/></a>
